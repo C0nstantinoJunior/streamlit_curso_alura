@@ -4,6 +4,3 @@ backgroundColor="#FFFFFF"
 secondaryBackgroundColor="#D6D6D6"
 textColor="#000000"
 font="sans serif"
-
-[some_section]
-some_key = 2512
